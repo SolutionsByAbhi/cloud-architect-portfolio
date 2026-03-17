@@ -6,7 +6,7 @@ export default function HomePage() {
       <div className="grid gap-8 md:grid-cols-[2fr,1.3fr]">
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-sky-400">
-            Cloud Architect • SRE • Advisor
+            Cloud Architect • AI enthusiast • Systems Integration Specialist
           </p>
           <h1 className="mt-3 text-3xl font-semibold text-slate-50 md:text-4xl">
             Designing resilient, scalable cloud platforms for ambitious teams.
@@ -22,7 +22,7 @@ export default function HomePage() {
               AWS | Azure | GCP
             </span>
             <span className="rounded-full bg-emerald-500/15 px-3 py-1 text-emerald-300">
-              Kubernetes & Service Mesh
+              Kubernetes
             </span>
             <span className="rounded-full bg-violet-500/15 px-3 py-1 text-violet-300">
               SRE & Observability
