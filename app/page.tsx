@@ -38,7 +38,7 @@ export default function HomePage() {
         <div className="flex items-center justify-center">
           <div className="gradient-border h-40 w-40 rounded-3xl overflow-hidden md:h-48 md:w-48">
             <Image
-              src="/abi.png"
+              src="/abhighna.jpg"
               alt="Profile photo"
               width={300}
               height={300}
