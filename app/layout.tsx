@@ -5,7 +5,7 @@ import type { ReactNode } from "react";
 
 export const metadata = {
   title: "Cloud Architect Portfolio",
-  description: "Portfolio of a modern cloud architect and SRE."
+  description: "Portfolio of a modern cloud architect and Systems Integration Specialist."
 };
 
 export default function RootLayout({ children }: { children: ReactNode }) {
