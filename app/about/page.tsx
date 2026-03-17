@@ -12,7 +12,7 @@ export default function AboutPage() {
       <div className="grid gap-6 md:grid-cols-[1.2fr,1fr]">
         <div className="rounded-xl border border-slate-800 bg-slate-950/80 p-4 text-xs text-slate-300">
           <p>
-            I&apos;ve spent the last several years helping teams design,
+            A senior cloud architect with more than a decade of experience designing and delivering enterprise‑grade cloud platforms across AWS and Azure, helping teams design,
             migrate, and operate systems in the cloud—from early-stage startups
             to large enterprises. My focus is always the same: align technology
             decisions with business outcomes, and make reliability a shared
@@ -38,7 +38,7 @@ export default function AboutPage() {
             <ul className="mt-2 space-y-1 text-slate-300">
               <li>• Cloud architecture (AWS, Azure, GCP)</li>
               <li>• Kubernetes, containers, and service mesh</li>
-              <li>• IaC (Terraform, Pulumi, CloudFormation)</li>
+              <li>• IaC (Terraform, Bicep, CloudFormation)</li>
               <li>• SRE, observability, and incident management</li>
             </ul>
           </div>
