@@ -30,19 +30,16 @@ export default function HomePage() {
           </div>
         </div>
         <div className="flex items-center justify-center">
-          <div className="gradient-border h-40 w-40 rounded-3xl bg-slate-900/60 p-[1px] md:h-48 md:w-48">
-            <div className="flex h-full w-full flex-col items-center justify-center rounded-3xl bg-slate-950/90 text-center text-xs text-slate-300">
-              <span className="text-[11px] uppercase tracking-[0.2em] text-sky-400">
-                Cloud Architect
-              </span>
-              <span className="mt-2 text-sm font-semibold text-slate-50">
-                Your Name
-              </span>
-              <span className="mt-2 text-[11px] text-slate-400">
-                Frankfurt • Remote • Global
-              </span>
-            </div>
-          </div>
+         <div className="gradient-border h-40 w-40 rounded-3xl overflow-hidden md:h-48 md:w-48">
+  <Image
+    src="/abi.png"
+    alt="Profile photo"
+    width={300}
+    height={300}
+    className="h-full w-full object-cover rounded-3xl"
+  />
+</div>
+
         </div>
       </div>
 
