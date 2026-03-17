@@ -6,7 +6,7 @@ export default function HomePage() {
       <div className="grid gap-8 md:grid-cols-[2fr,1.3fr]">
         <div>
           <p className="text-xs font-semibold uppercase tracking-[0.25em] text-sky-400">
-            Cloud Architect • AI enthusiast • Systems Integration Specialist
+            Senior Cloud Architect • AI enthusiast
           </p>
           <h1 className="mt-3 text-3xl font-semibold text-slate-50 md:text-4xl">
             Designing resilient, scalable cloud platforms for ambitious teams.
